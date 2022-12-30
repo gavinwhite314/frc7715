@@ -1,2 +1,4 @@
-# frc7715
-Website for the Robo-Banditos FRC Team (7715).
+# Robo-Banditos FRC7715 Website
+![Logo](https://i.imgur.com/c1mQjU6_d.webp)
+
+You can view this Website at: [robobanditos7715.com](https://robobanditos7715.com)
